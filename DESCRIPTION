@@ -1,9 +1,9 @@
-Package: Package_441a
+Package: Package.441a
 Type: Package
 Title: misc
 Version: 0.1.0
 Author: Nathan Kunz
-Maintainer: natekunz@ucla.edu
+Maintainer:
 Description: Includes functions to generate summary statistcics compatible with the boot library, return information on NAs in data sample from theoretical distributions, return statistics for time series models, and create histograms for a dataframe's numeric variables
 License: NA
 Encoding: UTF-8
